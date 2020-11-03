@@ -1,4 +1,4 @@
 name: Events
 main: dev.pgm.events.Tournament
 version: 1.0.0-SNAPSHOT
-depend: [PGM]
+depend: [Mercury]
